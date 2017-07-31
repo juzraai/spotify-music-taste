@@ -1,0 +1,11 @@
+target/
+
+*.iml
+.idea/
+
+*.cache*
+*.sh
+saved-tracks.txt
+output/
+
+_TempMain.kt
